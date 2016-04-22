@@ -1,7 +1,8 @@
 ###Learning Node!
 
-[nodeschool.io](https://nodeschool.io)
+[nodeschool.io](http://nodeschool.io/#workshoppers)
 
 Installed
 
+* javascripting
 * learnyounode
