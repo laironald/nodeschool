@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/laironald/nodeschool/issues"
   },
-  "homepage": "https://github.com/laironald/nodeschool#readme"
+  "homepage": "https://github.com/laironald/nodeschool#readme",
+  "dependencies": {
+    "learnyounode": "^3.4.2",
+    "lodash": "^4.11.1"
+  }
 }

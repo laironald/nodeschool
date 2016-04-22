@@ -1,3 +1,7 @@
-Learning Node!
+###Learning Node!
 
-nodeschool.io
+[nodeschool.io](https://nodeschool.io)
+
+Installed
+
+* learnyounode
